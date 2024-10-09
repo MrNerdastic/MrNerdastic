@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @MrNerdastic
 - 👀 I’m interested in basketball and business
+- 💪 My strengths: Python, HTML/CSS, Unity (C#), (Arduino)
+- 👎 My weaknesses: I often have many projects at the same time
 - 🌱 I’m currently learning how to run a business and organic marketing
-- 💞️ I’m looking to collaborate on all kinds of programming projects and my businesses
+- 💞️ I’m looking to collaborate on all kinds of programming projects
 - 📫 How to reach me: mrnerdastic@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love traveling, I lived in 3 countries and visited 25+
+- 🕝 My hobbies (in no particular order): basketball, programming, 3D printing, running, woodworking, DLRG, reading, playing chess (https://link.chess.com/friend/cvKZT9), selling products I came up with/programmed, GYPT
